@@ -22,11 +22,11 @@ started off writing HTML to build the foundation of the page. Focused on each se
 - Flexbox
 - CSS Grid
 
-### What I learned
+### What-I-learned
 
 Learnt how to use html and css properties effectively. A basic website can be made with just using HTML and CSS.
 
-###Continued Development
+###Continued-Development
 
 Continue and learn more flexbox properties and practice using HTML and CSS to build more responsive websites!
 
